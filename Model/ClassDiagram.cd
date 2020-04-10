@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.ModelGame" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAQBMAAAAAAAEAAAAIABAAAEEAAFAgAA=</HashCode>
+      <FileName>ModelGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelHighcores" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAACAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ModelHighcores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelHighscoreString" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAggAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelHighscoreString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelInstruction" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQKAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelMainMenu" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAAiAAAA=</HashCode>
+      <FileName>ModelMainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelMenuItem" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAQ=</HashCode>
+      <FileName>ModelMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.Box" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.GameField" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEBAAAABAAAAAAAEAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\GameField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.GameObject" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Objects\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.Hero" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.PlaceBox" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\PlaceBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.Wall" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
