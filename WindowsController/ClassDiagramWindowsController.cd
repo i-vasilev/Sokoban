@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsController.ControllerGameWindow" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAKAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>ControllerGameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsController.ControllerHighscoresWindow" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAIAAAAAAACAAAA=</HashCode>
+      <FileName>ControllerHighscoresWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsController.ControllerInstructionWindow" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAACAAAA=</HashCode>
+      <FileName>ControllerInstructionWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsController.ControllerMainMenuWindows" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAABCAAAAACAAABAAAABAQBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControllerMainMenuWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsController.ControllerNewRecordWindows" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ControllerNewRecordWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.ControllerGame" Collapsed="true">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.ControllerHighscores" Collapsed="true">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.ControllerInstruction" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.ControllerMenu" Collapsed="true">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.ControllerNewRecord" Collapsed="true">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="View.Objects.ViewCounterMoves" Collapsed="true">
+    <Position X="12.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Objects.ViewGameObject" Collapsed="true">
+    <Position X="14.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Objects.ViewMainMenuGameName" Collapsed="true">
+    <Position X="17.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Objects.ViewObject" Collapsed="true">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewGame" Collapsed="true">
+    <Position X="13" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewHighscores" Collapsed="true">
+    <Position X="17" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewHighscoreString" Collapsed="true">
+    <Position X="10.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewInstruction" Collapsed="true">
+    <Position X="13.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewMainMenu" Collapsed="true">
+    <Position X="11.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewMenuItem" Collapsed="true">
+    <Position X="19" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewNewRecord" Collapsed="true">
+    <Position X="15" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ConsoleView.FastOutput" Collapsed="true">
+    <Position X="16" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACACAACAAQAAAAQAAAAAABAAAAAAAAAAiAFAAAA=</HashCode>
+      <FileName>FastOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.ViewMainMenuGameNameConsole" Collapsed="true">
+    <Position X="17.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewMainMenuGameNameConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.ViewGameConsole" Collapsed="true">
+    <Position X="13" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAgAAAAAAAAAAAACAAAAAAAAAAgAIAAAAAAAAAAA=</HashCode>
+      <FileName>ViewGameConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.ViewHighscoreConsole" Collapsed="true">
+    <Position X="17" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewHighscoreConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.ViewHighscoreStringConsole" Collapsed="true">
+    <Position X="10.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>ViewHighscoreStringConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.ViewInstructionConsole" Collapsed="true">
+    <Position X="13.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewInstructionConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.ViewMainMenuConsole" Collapsed="true">
+    <Position X="11.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAABIAA=</HashCode>
+      <FileName>ViewMainMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.ViewMenuItemConsole" Collapsed="true">
+    <Position X="19" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAIAAAEAAA=</HashCode>
+      <FileName>ViewMenuItemConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.ViewNewRecordConsole" Collapsed="true">
+    <Position X="15" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewNewRecordConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.Factories.ViewGameObjectConsoleFactory" Collapsed="true">
+    <Position X="18.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Factories\ViewGameObjectConsoleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Objects.ViewBoxConsole" Collapsed="true">
+    <Position X="13.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewBoxConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Objects.ViewCounterMovesConsole" Collapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewCounterMovesConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Objects.ViewGameObectConsole" Collapsed="true">
+    <Position X="14.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewGameObectConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Objects.ViewHeroConsole" Collapsed="true">
+    <Position X="11.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewHeroConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Objects.ViewPlaceBoxConsole" Collapsed="true">
+    <Position X="16" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewPlaceBoxConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Objects.ViewWallConsole" Collapsed="true">
+    <Position X="18.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewWallConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="View.Objects.Factories.TypesView" Collapsed="true">
+    <Position X="16" Y="11.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

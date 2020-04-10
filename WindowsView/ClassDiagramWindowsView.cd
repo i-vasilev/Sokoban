@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsView.ViewGameWindow" Collapsed="true">
+    <Position X="7" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgAAAAASIAAAAgQAKAAAIIAAAAAgABAA=</HashCode>
+      <FileName>ViewGameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.ViewHighscoreStringWindow" Collapsed="true">
+    <Position X="4" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAABAAAEAAAAAAAIAAAAAAoIAAAAAACCA=</HashCode>
+      <FileName>ViewHighscoreStringWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.ViewHighscoresWindows" Collapsed="true">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgAAAACAAAAAAAQAACAAAIAAAAAgABAA=</HashCode>
+      <FileName>ViewHighscoresWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.ViewInstructionWindows" Collapsed="true">
+    <Position X="5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAAAAAAgAAAACAAAAAAAQAAAAAAIAAAAAgABAA=</HashCode>
+      <FileName>ViewInstructionWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.ViewMainMenuWindows" Collapsed="true">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAgQACAAAAAAAAAQAAAAAAIAAAAAgBpAA=</HashCode>
+      <FileName>ViewMainMenuWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.ViewMenuItemWindows" Collapsed="true">
+    <Position X="11.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAIAAAAAgAAAAAAAAAAAIAAAAAAoAAYAAAAAAA=</HashCode>
+      <FileName>ViewMenuItemWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.ViewNewRecordWindows" Collapsed="true">
+    <Position X="6.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAACABgBAAAAAAAAAAUAAAEAAIAAAAAAABQA=</HashCode>
+      <FileName>ViewNewRecordWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.Factories.ViewBoxWindowFactory" Collapsed="true">
+    <Position X="8.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Factories\ViewBoxWindowFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.ViewBoxWindow" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewBoxWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.ViewCounterMovesWindows" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAABAAAAgAgAAAAAAAAAAAAAAAAIAAAAAAAAgA=</HashCode>
+      <FileName>Objects\ViewCounterMovesWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.ViewGameObjectWindow" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAACAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Objects\ViewGameObjectWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.ViewHeroWindow" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewHeroWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.ViewMainMenuGameNameWindow" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAgAAAAAAAAAQAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewMainMenuGameNameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.ViewPlaceBoxWindow" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewPlaceBoxWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.ViewStringWindow" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAAAAAAgAgAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewStringWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsView.Objects.ViewWallWindows" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewWallWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Objects.ViewCounterMoves" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Objects.ViewGameObject" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Objects.ViewMainMenuGameName" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Objects.ViewObject" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewGame" Collapsed="true">
+    <Position X="7" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewHighscores" Collapsed="true">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewHighscoreString" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewInstruction" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewMainMenu" Collapsed="true">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewMenuItem" Collapsed="true">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewNewRecord" Collapsed="true">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="View.Objects.Factories.TypesView" Collapsed="true">
+    <Position X="8.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

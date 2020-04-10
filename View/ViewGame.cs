@@ -12,10 +12,7 @@ namespace View
     /// </summary>
     public abstract class ViewGame
     {
-        /// <summary>
-        /// Поток вывода
-        /// </summary>
-        private Thread _threadView;
+        protected Thread _threadView;
         /// <summary>
         /// Модель игры
         /// </summary>
